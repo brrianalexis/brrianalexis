@@ -8,10 +8,12 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
     runs-on: ubuntu-latest
+    name: Profile Readme Development Stats
+
     steps:
       - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
