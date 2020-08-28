@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Spotify](https://novatorem-nine-beige.vercel.app/api/spotify)](https://open.spotify.com/user/21ttbyunhf56rp6soqidgfk2q)
+
 
 <!--START_SECTION:waka-->
 ```text
