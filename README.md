@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2020 - 26 August, 2020
+Week: 20 August, 2020 - 27 August, 2020
 
 JavaScript   17 hrs 42 mins  ███████████████▒░░░░░░░░░   61.02 % 
 TypeScript   5 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.73 % 
