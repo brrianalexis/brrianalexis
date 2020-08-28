@@ -29,3 +29,6 @@ Markdown     48 mins         ▓░░░░░░░░░░░░░░░░
 Other        44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Brian Alexis' github stats](https://github-readme-stats-sepia-two.vercel.app
+/api?username=brrianalexis&show_icons=true&hide_border=true)](https://github.com/brrianalexis/github-readme-stats)
