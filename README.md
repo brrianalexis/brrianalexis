@@ -1,4 +1,4 @@
-### Hi there, stranger 👋
+## Hi there, stranger 👋
 
 - 🔭 I’m currently working on [jasmine-dom](https://github.com/testing-library/jasmine-dom)!
 - 🌱 I’m ~currently~ always learning everything 😅, but mainly focused on React, TypeScript & JavaScript testing
