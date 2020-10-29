@@ -12,10 +12,10 @@
 ### This week I spent my time coding:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   18 hrs 12 mins  ████████████████▓░░░░░░░░   66.48 % 
-TypeScript   5 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
-JSON         2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Markdown     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JavaScript   17 hrs 38 mins  ███████████████▓░░░░░░░░░   62.10 % 
+TypeScript   6 hrs 54 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+JSON         1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Markdown     1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 <!--END_SECTION:waka-->
