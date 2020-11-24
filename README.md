@@ -12,9 +12,9 @@
 ### This week I spent my time coding:
 <!--START_SECTION:waka-->
 ```text
-YAML         44 mins         ██████████▓░░░░░░░░░░░░░░   42.32 % 
-JavaScript   26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.00 % 
-Markdown     22 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 % 
-JSON         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+YAML         29 mins         ██████████▓░░░░░░░░░░░░░░   42.03 % 
+JavaScript   26 mins         █████████▓░░░░░░░░░░░░░░░   38.00 % 
+Markdown     10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 <!--END_SECTION:waka-->
