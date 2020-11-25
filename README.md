@@ -12,9 +12,6 @@
 ### This week I spent my time coding:
 <!--START_SECTION:waka-->
 ```text
-YAML         29 mins         ██████████▓░░░░░░░░░░░░░░   42.03 % 
-JavaScript   26 mins         █████████▓░░░░░░░░░░░░░░░   38.00 % 
-Markdown     10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Python   1 hr 18 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
