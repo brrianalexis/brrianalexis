@@ -11,7 +11,8 @@
 ### This week I spent my time coding:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 5 mins    ████████████████▓░░░░░░░░   66.67 % 
-SCSS         1 hr 32 mins    ████████▒░░░░░░░░░░░░░░░░   33.18 % 
+JavaScript   3 hrs 39 mins   ████████████████████░░░░░   80.22 % 
+SCSS         50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.30 % 
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 <!--END_SECTION:waka-->
