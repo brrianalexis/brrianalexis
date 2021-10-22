@@ -1,6 +1,6 @@
 ## Hi there, stranger 👋
 
-- 🌱 I’m ~currently~ always learning everything 😅, but mainly focused on [React](https://courseit.com.ar/cursos/frontend-avanzado-2020), TypeScript & [JavaScript testing](https://testingjavascript.com/)
+- 🌱 I’m ~currently~ always learning everything 😅, but mainly focused on [React](https://epicreact.dev), TypeScript & [JavaScript testing](https://testingjavascript.com/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brian-alexis/)
 - 😄 Pronouns: He/him
 
