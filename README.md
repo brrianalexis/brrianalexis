@@ -2,4 +2,4 @@
 
 - 🌱 I’m ~currently~ always learning everything 😅, but mainly focused on [React](https://epicreact.dev), TypeScript & React Native
 
-[![Last.fm](https://lastfm-display.vercel.app)]()
+[![Last.fm](https://lastfm-display.vercel.app/api/last-fm)]()
