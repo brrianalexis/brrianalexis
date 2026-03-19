@@ -1,6 +1,8 @@
-## Hi there, stranger 👋
+## hey 👋
 
-- 🌱 I’m ~currently~ always learning everything 😅, but mainly focused on React, TypeScript & React Native
+full-stack developer & frontend lead, building thoughtful products from Buenos Aires 🇦🇷
+
+curious about music, film, psychology, and whatever idea seems worth exploring.
 
 [![Last.fm](https://readme-display.vercel.app/api/last-fm/now-playing?theme=neon)](https://www.last.fm/user/brrianalexis)
 
